@@ -11,15 +11,15 @@ browser:
 # Niche Configuration
 niche:
   seed_keywords:
-    - "Islamic Reminders"
-    - "Dhikr and Dua"
-    - "Tawheed Allah"
-    - "Istighfar Benefits"
-    - "Morning Azkar"
-    - "Night Azkar"
+    - "AI Art Prompts"
+    - "Best AI Tools 2026"
+    - "ChatGPT Prompts and Tricks"
+    - "Midjourney Masterclass"
+    - "AI Video Generation Tools"
+    - "Future Technology Trends"
   categories:
-    - "Islam"
-    - "Islamic Reminders"
+    - "Technology"
+    - "Artificial Intelligence"
 
 # Posting Schedule
 schedule:
@@ -35,7 +35,6 @@ posting:
   default_destination_link: "https://www.youtube.com/@amerelshamy2406" # e.g. https://yoursite.com
 
 # AI Configuration
-
 ai:
   text_provider: "groq" # Uses OpenAI-compatible API (openai library)
   text_model: "llama-3.3-70b-versatile" # Groq model for metadata + quality gate
